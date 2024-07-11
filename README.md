@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishnabd88
-- 👀 I’m interested in ...Software Development & DevOps 
-- 🌱 I’m currently learning ...Software Developmen & DevOps
+- 👀 I’m interested in ...Software Development & DevOps.
+- 🌱 I’m currently learning ......Python.
 - 💞️ I’m looking to collaborate on ...Open Source
 - 📫 How to reach me ...krishnabd88@hotmail.com
 
