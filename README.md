@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krishna Kumar Shaha
+- 👋 Hi, I’m @Krishna Kumar Shaha
 - 👀 I’m interested in ...Open Source Software Development & Operations.
 - 🌱 I’m currently learning ......Python, Dart & JavaScript.
 - 💞️ I’m looking to collaborate on ...Open Source Software Development.
